@@ -1,0 +1,17 @@
+
+.block{color: blue;}
+.line{text-decoration-line: underline}
+#golovna{color: red;}
+#meat{color: black;}
+#solodke{color: green;}
+#sup{color: blueviolet;}
+span.text{color: aqua;}
+div.block{color: greenyellow;}
+.text.pp{color: red;}
+.text p{color: rgb(14, 43, 124);}
+.text > p{color: rgb(235, 27, 172);}
+.text ~ p{color: rgb(10, 130, 151);}
+.link{width: 100px;
+    border: 1px solid rgb(14, 12, 12);
+    margin: auto;
+}
